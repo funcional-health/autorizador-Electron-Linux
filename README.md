@@ -1,0 +1,1 @@
+# autorizador-Electron-Linux
